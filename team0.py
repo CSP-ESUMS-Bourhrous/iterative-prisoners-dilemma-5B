@@ -5,7 +5,8 @@
 #     strategy_description: a string
 #     move: A function that returns 'c' or 'b'
 ####
-# Hassan and Eran left a comment here.
+# Hassan was here.
+# This was witnessed by section 5B
 
 team_name = 'The name the team gives to itself' # Only 10 chars displayed.
 strategy_name = 'The name the team gives to this strategy'
