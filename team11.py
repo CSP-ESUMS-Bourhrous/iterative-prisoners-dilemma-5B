@@ -32,7 +32,7 @@ def move(my_history, their_history, my_score, their_score):
 
     return getTurn()
 
-def getTurn:
+def getTurn():
     options = ["c", "b", "b", "b", "b"]
     return random.choice(options)
     
