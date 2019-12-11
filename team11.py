@@ -10,7 +10,7 @@ import random
 
 team_name = 'Illuminati' # Only 10 chars displayed.
 strategy_name = 'Rand80'
-strategy_description = 'Returns a betrayal 80 percent of the time"
+strategy_description = 'Returns a betrayal 80 percent of the time'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
